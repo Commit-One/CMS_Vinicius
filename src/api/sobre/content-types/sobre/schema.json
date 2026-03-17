@@ -13,6 +13,16 @@
   "attributes": {
     "Content": {
       "type": "text"
+    },
+    "Foto": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
