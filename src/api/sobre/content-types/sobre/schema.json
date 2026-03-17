@@ -14,14 +14,12 @@
     "Content": {
       "type": "text"
     },
-    "Foto": {
+    "Profile": {
       "type": "media",
       "multiple": false,
       "allowedTypes": [
         "images",
-        "files",
-        "videos",
-        "audios"
+        "files"
       ]
     }
   }
